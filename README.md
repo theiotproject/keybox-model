@@ -1,6 +1,6 @@
 # keybox-model
 The repository contains the STL files for the Keybox system
-## The software can be found under this [link](https://github.com/theiotproject/keybox-espidf) 
+## The software can be found under this [link](https://github.com/theiotproject/keybox-core) 
 
 ## Print settings:  
 Infill: >= 20%,  
